@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.f-s-12{
+  font-size: 12px;
+}
+.f-s-13{
+  font-size: 13px;
+}
+.f-s-14{
+  font-size: 14px;
+}
+.scroll-y{
+  overflow-y: scroll;
+}
+.h-600{
+  height:600px;
+}
+.h-500{
+  height:500px;
+}
+.h-300{
+  height:300px;
+}
+
+.text-modified {
+  color: blue;
 }
